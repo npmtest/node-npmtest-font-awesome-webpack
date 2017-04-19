@@ -1,6 +1,6 @@
 # npmtest-font-awesome-webpack
 
-#### test coverage for  [font-awesome-webpack (v0.0.4)](https://github.com/gowravshekar/font-awesome-webpack)  [![npm package](https://img.shields.io/npm/v/npmtest-font-awesome-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-font-awesome-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-font-awesome-webpack.svg)](https://travis-ci.org/npmtest/node-npmtest-font-awesome-webpack)
+#### basic test coverage for  [font-awesome-webpack (v0.0.4)](https://github.com/gowravshekar/font-awesome-webpack)  [![npm package](https://img.shields.io/npm/v/npmtest-font-awesome-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-font-awesome-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-font-awesome-webpack.svg)](https://travis-ci.org/npmtest/node-npmtest-font-awesome-webpack)
 
 #### font-awesome package for webpack
 
